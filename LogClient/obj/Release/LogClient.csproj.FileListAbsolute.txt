@@ -1,0 +1,9 @@
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\LogClient\LogClient\bin\Release\LogClient.exe.config
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\LogClient\LogClient\bin\Release\LogClient.exe
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\LogClient\LogClient\bin\Release\LogClient.pdb
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\LogClient\LogClient\obj\Release\LogClient.csprojResolveAssemblyReference.cache
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\LogClient\LogClient\obj\Release\LogClient.FormLog.resources
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\LogClient\LogClient\obj\Release\LogClient.Properties.Resources.resources
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\LogClient\LogClient\obj\Release\LogClient.csproj.GenerateResource.Cache
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\LogClient\LogClient\obj\Release\LogClient.exe
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\LogClient\LogClient\obj\Release\LogClient.pdb
